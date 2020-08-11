@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+h1{
+	color: red;
+	
+}
+.container{
+	display: flex;
+	justify-content: space-around;
+	border-radius: 2px solid black;
+	font-family: 'Poppins', sans-serif;
+}
